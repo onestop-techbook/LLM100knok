@@ -48,6 +48,7 @@ const def = {
     /////////
     "part-3-howto.md",			      //LLMのいろいろなサービス、ツール、OSSなんかの使い方
       "chap-otsukit-just4UtheBedrock.md", // ここに追記していく
+	  "chap-kaneyasu-refactor-with-amazonq.md",
       // TBD (追加お待ちしております)
       // 例）ナレッジベース追加したら４万円でひやっとした話
 
