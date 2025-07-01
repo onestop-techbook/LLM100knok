@@ -55,6 +55,7 @@ const def = {
 
     /////////
     "part-4-servicetool.md",			      //AWSユーザーから見たAWS関連のいろいろなサービス、ツール Bedrock 、Q、　GenUとかいろいろ
+      "chap-kazzpapa3-find-aws-docs-with-amazonq.md",
       // TBD (追加お待ちしております)
       // 例）Q Developer と　Q Business って何が違うの？
 
