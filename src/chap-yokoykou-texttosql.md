@@ -55,7 +55,7 @@ https://qiita.com/NiNe99/items/c50909aeee01def5835b
     <div>
         <div>
             <b>横山 昂平</b>
-            @NiNe99
+            @yokoykou99
         </div>
     </div>
 </div>
